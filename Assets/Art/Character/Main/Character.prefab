@@ -152,6 +152,46 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.255
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.343
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.74802095
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.59351546
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.13069417
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.26668915
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 54.906
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -422.965
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572917248075011613, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -74.542
+      objectReference: {fileID: 0}
     - target: {fileID: 7869286514200513475, guid: 94e2903943932344ea1e45f586f4ef9e, type: 3}
       propertyPath: m_Name
       value: Monster base
