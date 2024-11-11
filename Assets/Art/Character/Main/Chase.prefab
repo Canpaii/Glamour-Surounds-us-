@@ -698,7 +698,7 @@ ParticleSystem:
         m_RotationOrder: 4
     randomizeRotationDirection: 0
     gravitySource: 0
-    maxNumParticles: 125
+    maxNumParticles: 300
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
     rotation3D: 0
@@ -4991,8 +4991,8 @@ MonoBehaviour:
   - {fileID: 377092524460820}
   - {fileID: 6911766507818073655}
   - {fileID: 2624046137716208703}
-  armRight: {fileID: 6800137103744036017, guid: 769753b5a620a7841948eb6e2e4244a5, type: 3}
-  armLeft: {fileID: 2810079145600618785, guid: 731d85d2f949616479c02284484f8227, type: 3}
+  armRight: {fileID: 6328500037440414939, guid: 822b20cba2d5ebb4bb2f4660dc60f5ee, type: 3}
+  armLeft: {fileID: 6328500037440414939, guid: 822b20cba2d5ebb4bb2f4660dc60f5ee, type: 3}
   spawnAfterSeconds: 0.2
 --- !u!1 &5122984129646112426
 GameObject:
@@ -5599,7 +5599,7 @@ ParticleSystem:
         m_RotationOrder: 4
     randomizeRotationDirection: 0
     gravitySource: 0
-    maxNumParticles: 125
+    maxNumParticles: 300
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
     rotation3D: 0
